@@ -36,3 +36,4 @@ Bonus:
 • Apply CSS animations when drawing numbers (fade, etc ...)
 • Input element which defines if a “Superzahl” should be created, persisted and displayed
 or not
+![image](https://github.com/BiancaPBM/TicketGenerator/assets/44742666/66dda090-c962-4d7b-90aa-3b377832cf11)
