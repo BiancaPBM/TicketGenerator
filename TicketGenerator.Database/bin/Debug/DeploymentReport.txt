@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[TicketBox]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[TicketBox] (Foreign Key)
+       unnamed constraint on [dbo].[TicketBox] (Foreign Key)
+     Recreate table
+       [dbo].[TicketBox] (Table)
+
+** Supporting actions
+     Create
+       Foreign Key: unnamed constraint on [dbo].[TicketBox] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[TicketBox] (Foreign Key)

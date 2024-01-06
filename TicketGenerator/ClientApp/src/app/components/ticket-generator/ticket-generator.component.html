@@ -1,0 +1,49 @@
+<div>
+  <h1>Lotto Generator</h1>
+  <div class="p-20">
+    <div class="flex generator-container">
+      <div class="wrapper-container">
+        <div class="wrapper">
+          <p class="ball" *ngFor="let _ of numbers; let i = index">
+            {{i + 1}}
+          </p>
+        </div>
+        <div *ngIf="hasArrowsAvailable && this.displayTicket" class="arrows">
+          <div (click)="displayPreviousBox();" class="fs-24">&#11164;</div>
+          <div>{{boxNumber + 1}} - {{this.displayTicket.boxes.length}}</div>
+          <div (click)="displayNextBox();" class="fs-24">&#11166;</div>
+        </div>
+      </div>
+      <div class="ticket-list">
+        <p class="ticket-list-title">Ticket list</p>
+        <div class="ticket-list-container">
+          <div class="ticket" (click)="getTicketById(ticket.id)" *ngFor="let ticket of tickets">
+
+            <div [ngClass]="ticket.superzahl!= null? 'ball-superzahl generated': 'ball-superzahl'">{{ticket.superzahl}}</div>
+            {{ticket.name}}
+          </div>
+        </div>
+      </div>
+    </div>
+    <form [formGroup]="form" class="flex flex-column">
+      <div class="form">
+        <label for="box" class="p-10">
+          Boxes
+          <input id="box" type="number" max="100" min="1" formControlName="boxes" />
+        </label>
+        <label for="name">
+          Title
+          <input id="name" type="text" formControlName="name" />
+        </label>
+        <label for="superzahl">
+          Generate superzahl
+          <input id="superzahl" type="checkbox" formControlName="hasSuperzahl" />
+        </label>
+      </div>
+      <button type="button" [disabled]="form.controls['boxes'].value == null" id="generate" class="clearfix btn" (click)="generateTicket(form.controls['boxes'].value)">
+        Draw ticket
+        <div *ngIf="isLoading" class="loader"></div>
+      </button>
+    </form>
+  </div>
+</div>

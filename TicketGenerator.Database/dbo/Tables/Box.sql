@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[Box]
+(
+ [Id] INT IDENTITY PRIMARY KEY,
+ [Number1] INT NOT NULL,
+ [Number2] INT NOT NULL,
+ [Number3] INT NOT NULL,
+ [Number4] INT NOT NULL,
+ [Number5] INT NOT NULL,
+ [Number6] INT NOT NULL,
+ [DateCreation] DATETIME2(7) NOT NULL
+)

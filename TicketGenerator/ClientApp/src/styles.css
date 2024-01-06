@@ -1,0 +1,78 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Irish Grover';
+  font-size: 22px;
+  height:100vh;
+}
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.bg {
+  height:100vh;
+  background: conic-gradient(from 315deg, #1A8255, #92D276);
+}
+
+::-webkit-scrollbar {
+  width: 5px; /* Width of the scrollbar */
+}
+
+* {
+  scrollbar-width: thin; 
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1; 
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3e4844; 
+  border-radius: 2px;
+}
+.loader {
+  margin-left: 5px;
+  border: 2px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 2px solid #3498db;
+  width: 10px;
+  height: 10px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}

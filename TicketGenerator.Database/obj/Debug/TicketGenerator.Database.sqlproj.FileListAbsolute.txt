@@ -1,0 +1,10 @@
+D:\TicketGenerator\TicketGenerator.Database\bin\Debug\TicketGenerator.Database.dacpac
+D:\TicketGenerator\TicketGenerator.Database\bin\Debug\TicketGenerator.Database.dll
+D:\TicketGenerator\TicketGenerator.Database\bin\Debug\TicketGenerator.Database.pdb
+D:\TicketGenerator\TicketGenerator.Database\obj\Debug\TicketGenerator.Database.sqlproj.AssemblyReference.cache
+D:\TicketGenerator\TicketGenerator.Database\obj\Debug\TicketGenerator.Database.dll
+D:\TicketGenerator\TicketGenerator.Database\obj\Debug\TicketGenerator.Database.pdb
+D:\TicketGenerator\TicketGenerator.Database\obj\Debug\Model.xml
+D:\TicketGenerator\TicketGenerator.Database\obj\Debug\refactor.xml
+D:\TicketGenerator\TicketGenerator.Database\obj\Debug\postdeploy.sql
+D:\TicketGenerator\TicketGenerator.Database\obj\Debug\predeploy.sql

@@ -1,0 +1,15 @@
+D:\TicketGenerator\TicketGenerator.DataAccess\bin\Debug\net8.0\TicketGenerator.Repository.deps.json
+D:\TicketGenerator\TicketGenerator.DataAccess\bin\Debug\net8.0\TicketGenerator.Repository.dll
+D:\TicketGenerator\TicketGenerator.DataAccess\bin\Debug\net8.0\TicketGenerator.Repository.pdb
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\TicketGenerator.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\TicketGenerator.Repository.AssemblyInfoInputs.cache
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\TicketGenerator.Repository.AssemblyInfo.cs
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\TicketGenerator.Repository.csproj.CoreCompileInputs.cache
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\TicketGenerator.Repository.dll
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\refint\TicketGenerator.Repository.dll
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\TicketGenerator.Repository.pdb
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\ref\TicketGenerator.Repository.dll
+D:\TicketGenerator\TicketGenerator.DataAccess\bin\Debug\net8.0\TicketGenerator.Entities.dll
+D:\TicketGenerator\TicketGenerator.DataAccess\bin\Debug\net8.0\TicketGenerator.Entities.pdb
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\TicketGenerator.Repository.csproj.AssemblyReference.cache
+D:\TicketGenerator\TicketGenerator.DataAccess\obj\Debug\net8.0\TicketGenerator.Repository.csproj.CopyComplete

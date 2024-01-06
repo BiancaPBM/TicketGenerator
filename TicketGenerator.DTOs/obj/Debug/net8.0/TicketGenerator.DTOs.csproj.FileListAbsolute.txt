@@ -1,0 +1,11 @@
+D:\TicketGenerator\TicketGenerator.DTOs\bin\Debug\net8.0\TicketGenerator.DTOs.deps.json
+D:\TicketGenerator\TicketGenerator.DTOs\bin\Debug\net8.0\TicketGenerator.DTOs.dll
+D:\TicketGenerator\TicketGenerator.DTOs\bin\Debug\net8.0\TicketGenerator.DTOs.pdb
+D:\TicketGenerator\TicketGenerator.DTOs\obj\Debug\net8.0\TicketGenerator.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\TicketGenerator\TicketGenerator.DTOs\obj\Debug\net8.0\TicketGenerator.DTOs.AssemblyInfoInputs.cache
+D:\TicketGenerator\TicketGenerator.DTOs\obj\Debug\net8.0\TicketGenerator.DTOs.AssemblyInfo.cs
+D:\TicketGenerator\TicketGenerator.DTOs\obj\Debug\net8.0\TicketGenerator.DTOs.csproj.CoreCompileInputs.cache
+D:\TicketGenerator\TicketGenerator.DTOs\obj\Debug\net8.0\TicketGenerator.DTOs.dll
+D:\TicketGenerator\TicketGenerator.DTOs\obj\Debug\net8.0\refint\TicketGenerator.DTOs.dll
+D:\TicketGenerator\TicketGenerator.DTOs\obj\Debug\net8.0\TicketGenerator.DTOs.pdb
+D:\TicketGenerator\TicketGenerator.DTOs\obj\Debug\net8.0\ref\TicketGenerator.DTOs.dll

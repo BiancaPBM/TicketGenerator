@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[TicketBox]
+(
+	[Id] INT NOT NULL IDENTITY PRIMARY KEY ,
+	[BoxId] INT NOT NULL FOREIGN KEY REFERENCES [dbo].[Box](Id),
+	[TicketId] INT NOT NULL FOREIGN KEY REFERENCES [dbo].[Ticket](Id)
+)
